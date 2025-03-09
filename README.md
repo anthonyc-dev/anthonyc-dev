@@ -27,5 +27,5 @@
 
 ## 😄 Pronouns: He/Him
 
-## ⚡ Fun fact: ...
+## ⚡ Fun fact ...
 - I used cloud-based development tools to code an app entirely online, allowing real-time collaboration, instant deployment, and feature testing all without a local development setup. It was a smooth experience that showcased the power of cloud platforms in modern app development!
