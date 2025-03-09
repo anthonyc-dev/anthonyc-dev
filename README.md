@@ -23,7 +23,7 @@
 ## 📫 How to reach me ...
 - Email: anthonycrausus14.darkcode@gmail.com
 - Mobile: +63 951 029 0543
-- LinkedIn: [linkedin.com/in/hardusername](https://linkedin.com/in/hardusername)
+- LinkedIn: https://www.linkedin.com/in/anthony-crausus-19b974269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ## 😄 Pronouns: He/Him
 
