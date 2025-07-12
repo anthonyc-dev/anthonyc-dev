@@ -1,31 +1,70 @@
-# 👋 Hi, I’m Anthony Crausus
+<!-- Header Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F76E11&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+I'm+Anthony+Crausus;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</p>
+
+# 👋 Hi, I’m **Anthony Crausus**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation" />
+</p>
+
+![React](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
+![VB.NET](https://img.shields.io/badge/-VB.NET-512BD4?logo=.net&logoColor=white&style=for-the-badge)
+
+---
 
 ## 👀 I’m interested in ...
-- Web Development (Frontend, Backend, Full-stack)
-- Mobile App Development
-- Desktop Applications
-- Databases (MySQL, MongoDB, Firebase...)
-- Open Source Contributions
+- 🌐 Web Development (Frontend, Backend, Full-stack)
+- 📱 Mobile App Development (iOS, Android)
+- 💻 Desktop Applications (Windows, Cross-platform)
+- 🗃️ Databases: MySQL, MongoDB, Firebase, and more
+- 🤝 Open Source Contributions
+
+---
 
 ## 🌱 I’m currently learning ...
-- Front-end Development with React.js and Next.js
-- Backend Development with Express.js, Node.js and ASP.NET Web Api
-- Desktop application development using VB.NET, Java Swing, and Tkinter
-- Mobile app development using React Native, Flutter, and Java
-- Building scalable apps with integrated databases
+- 🧩 Frontend: **React.js**, **Next.js**
+- 🚀 Backend: **Express.js**, **Node.js**, **ASP.NET Web API**
+- 🖥️ Desktop Apps: **VB.NET**, **Java Swing**, **Tkinter**
+- 📲 Mobile Apps: **React Native**, **Flutter**, **Java (Android)**
+- ☁️ Building **cloud-scalable** & **database-integrated** systems
+
+---
 
 ## 💞️ I’m looking to collaborate on ...
-- Full-stack development (Web, Mobile, Desktop apps)
-- Machine Learning & AI-driven projects
-- Open source contributions, especially with database-driven applications
-- Creating innovative and efficient database solutions
+- 🔧 Full-stack app development (Web / Mobile / Desktop)
+- 🤖 AI & Machine Learning projects
+- 🌍 Open source, especially with **data-intensive apps**
+- 🧠 Innovative database architectures
 
-## 📫 How to reach me ...
-- Email: anthonycrausus14.darkcode@gmail.com
-- Mobile: +63 951 029 0543
-- LinkedIn: https://www.linkedin.com/in/anthony-crausus-19b974269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+---
 
-## 😄 Pronouns: He/Him
+## 📫 Contact Me
+📧 [anthonycrausus14.darkcode@gmail.com](mailto:anthonycrausus14.darkcode@gmail.com)  
+📱 +63 951 029 0543  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/anthony-crausus-19b974269)
 
-## ⚡ Fun fact ...
-- I used cloud-based development tools to code an app entirely online, allowing real-time collaboration, instant deployment, and feature testing all without a local development setup. It was a smooth experience that showcased the power of cloud platforms in modern app development!
+---
+
+## 😄 Pronouns
+**He / Him**
+
+---
+
+## ⚡ Fun Fact
+> I once built and deployed an app **entirely in the cloud** — from development and real-time collaboration to deployment and live testing — with zero local setup. 🚀
+
+---
+
+<!-- Footer GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Rocket animation" />
+</p>
