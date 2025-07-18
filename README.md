@@ -1,79 +1,68 @@
-<!-- Header Animation -->
+<!-- Animated Gradient Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=4000&pause=500&color=7F5AF0&center=true&vCenter=true&width=800&height=100&lines=✨+Anthony+Crausus+✨;🚀+Full-Stack+Developer+%7C+Open-Source+Enthusiast" alt="Animated Typing Header" />
+</div>
+
+<!-- 3D Animated Avatar -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F76E11&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+I'm+Anthony+Crausus;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://i.imgur.com/8Km9tLL.gif" width="200" alt="3D Avatar Animation" />
+</div>
+
+<!-- Animated Tech Stack Cards -->
+<h2 align="center">🛠️ Tech Stack</h2>
+<div align="center">
+  
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge&labelColor=black)
+  ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge&labelColor=black)
+  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge&labelColor=black)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge&labelColor=black)
+  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge&labelColor=black)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge&labelColor=black)
+  
+</div>
+
+<!-- Animated Grid Layout -->
+<h2 align="center">🌟 Featured Projects</h2>
+<div align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepo&theme=radical" alt="Project Card" />
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepo&theme=merko" alt="Project Card" />
+  </a>
+</div>
+
+<!-- Animated Stats Section -->
+<h2 align="center">📊 GitHub Analytics</h2>
+<div align="center">
+  
+  ![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true&include_all_commits=true&line_height=30)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&langs_count=6)
+  
+  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&fire=7F5AF0)
+  
+</div>
+
+<!-- Animated Contact Section -->
+<h2 align="center">📬 Let's Connect</h2>
+<p align="center">
+  <a href="mailto:anthonycrausus14.darkcode@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
 </p>
 
-# 👋 Hi, I’m **Anthony Crausus**
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation" />
-</p>
-
-![React](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
-![Android Studio](https://img.shields.io/badge/-Android%20(Java)-3DDC84?logo=android&logoColor=white&style=for-the-badge)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
-![VB.NET](https://img.shields.io/badge/-VB.NET-512BD4?logo=.net&logoColor=white&style=for-the-badge)
-
-
----
-
-## 👀 I’m interested in ...
-- 🌐 Web Development (Frontend, Backend, Full-stack)
-- 📱 Mobile App Development (iOS, Android)
-- 💻 Desktop Applications (Windows, Cross-platform)
-- 🗃️ Databases: MySQL, MongoDB, Firebase, and more
-- 🤝 Open Source Contributions
-
----
-
-## 🌱 I’m currently learning ...
-- 🧩 Frontend: **React.js**, **Next.js**
-- 🚀 Backend: **Express.js**, **Node.js**, **ASP.NET Web API**
-- 🖥️ Desktop Apps: **VB.NET**, **Java Swing**, **Tkinter**
-- 📲 Mobile Apps: **React Native**, **Flutter**, **Java (Android)**
-- ☁️ Building **cloud-scalable** & **database-integrated** systems
-
----
-
-## 💞️ I’m looking to collaborate on ...
-- 🔧 Full-stack app development (Web / Mobile / Desktop)
-- 🤖 AI & Machine Learning projects
-- 🌍 Open source, especially with **data-intensive apps**
-- 🧠 Innovative database architectures
-
----
-
-## 📫 Contact Me
-📧 [anthonycrausus14.darkcode@gmail.com](mailto:anthonycrausus14.darkcode@gmail.com)  
-📱 +63 951 029 0543  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/anthony-crausus-19b974269)
-
----
-
-## 😄 Pronouns
-**He / Him**
-
----
-
-## ⚡ Fun Fact
-> I once built and deployed an app **entirely in the cloud**   from development and real-time collaboration to deployment and live testing   with zero local setup. 🚀
-
----
-
-<!-- Footer GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Rocket animation" />
-</p>
+<!-- Animated Footer -->
+<div align="center">
+  
+  ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=7F5AF0&style=flat-square)
+  
+  ![Snake Animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
