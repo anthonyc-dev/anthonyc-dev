@@ -55,6 +55,20 @@
 - 🧠 Innovative database architectures
 
 ---
+## 📊 Tech Proficiency Overview
+
+<p align="center">
+  <img src="https://progress-bar.dev/90/?title=React" />
+  <img src="https://progress-bar.dev/85/?title=Node.js" />
+  <img src="https://progress-bar.dev/80/?title=Flutter" />
+  <img src="https://progress-bar.dev/70/?title=Firebase" />
+  <img src="https://progress-bar.dev/65/?title=Laravel" />
+  <img src="https://progress-bar.dev/90/?title=MongoDB" />
+  <img src="https://progress-bar.dev/75/?title=TypeScript" />
+  <img src="https://progress-bar.dev/60/?title=VB.NET" />
+</p>
+
+---
 
 ## 📫 Contact Me
 📧 [anthonycrausus14.darkcode@gmail.com](mailto:anthonycrausus14.darkcode@gmail.com)  
