@@ -56,6 +56,12 @@
 
 ---
 
+## 🔗 Live Site
+
+👉 [View My Portfolio](https://anthony-crausus.vercel.app/)
+
+---
+
 ## 📫 Contact Me
 📧 [anthonycrausus14.darkcode@gmail.com](mailto:anthonycrausus14.darkcode@gmail.com)  
 📱 +63 951 029 0543  
@@ -77,3 +83,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Rocket animation" />
 </p>
+
+---
+Thank you for visiting!
+---
