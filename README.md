@@ -1,68 +1,122 @@
-<!-- Animated Gradient Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=4000&pause=500&color=7F5AF0&center=true&vCenter=true&width=800&height=100&lines=✨+Anthony+Crausus+✨;🚀+Full-Stack+Developer+%7C+Open-Source+Enthusiast" alt="Animated Typing Header" />
-</div>
+Here’s your full, modern, and animated `README.md` profile — now including **beautiful skill charts** (Option 1: progress bars and Option 3: pie chart), along with all your original content enhanced for **aesthetic design, clarity, and personality**.
 
-<!-- 3D Animated Avatar -->
+---
+
+````md
+<!-- Header Typing Animation -->
 <p align="center">
-  <img src="https://i.imgur.com/8Km9tLL.gif" width="200" alt="3D Avatar Animation" />
-</div>
-
-<!-- Animated Tech Stack Cards -->
-<h2 align="center">🛠️ Tech Stack</h2>
-<div align="center">
-  
-  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge&labelColor=black)
-  ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge&labelColor=black)
-  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge&labelColor=black)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge&labelColor=black)
-  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge&labelColor=black)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge&labelColor=black)
-  
-</div>
-
-<!-- Animated Grid Layout -->
-<h2 align="center">🌟 Featured Projects</h2>
-<div align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepo&theme=radical" alt="Project Card" />
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepo&theme=merko" alt="Project Card" />
-  </a>
-</div>
-
-<!-- Animated Stats Section -->
-<h2 align="center">📊 GitHub Analytics</h2>
-<div align="center">
-  
-  ![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true&include_all_commits=true&line_height=30)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&langs_count=6)
-  
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&fire=7F5AF0)
-  
-</div>
-
-<!-- Animated Contact Section -->
-<h2 align="center">📬 Let's Connect</h2>
-<p align="center">
-  <a href="mailto:anthonycrausus14.darkcode@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&height=100&lines=Hi+I'm+Anthony+Crausus!;Welcome+to+my+GitHub+Profile+🚀" alt="Typing SVG" />
 </p>
 
-<!-- Animated Footer -->
-<div align="center">
-  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=7F5AF0&style=flat-square)
-  
-  ![Snake Animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+<h1 align="center">👋 Hey there! I'm <span style="color:#F76E11">Anthony Crausus</span></h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding animation" />
+</p>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,nodejs,express,flutter,firebase,mongodb,mysql,php,python,typescript,java,androidstudio,cs,dotnet" />
+</p>
+
+---
+
+## 🌐 About Me
+
+```diff
++ Full-stack Developer | Mobile App Developer | Cloud Integrator
+````
+
+* 🔭 I love building full-stack applications for Web, Mobile & Desktop.
+* 💬 Ask me about **React**, **Flutter**, **Next.js**, **Node.js**, **MongoDB**, and more.
+* ⚙️ Tools of choice: **VSCode**, **Android Studio**, **Postman**, **Git**, **Figma**
+* 🧠 Constant learner exploring new technologies & design patterns.
+* 🔗 Currently diving deep into cloud-native and real-time architectures.
+
+---
+
+## 🎯 Current Focus
+
+* 🌍 **Frontend**: React.js / Next.js / TypeScript
+* 🚀 **Backend**: Node.js / Express.js / ASP.NET Web API
+* 📱 **Mobile**: React Native / Flutter / Android (Java)
+* 💻 **Desktop**: VB.NET / Java Swing / Python Tkinter
+* ☁️ **Cloud & Real-time DBs**: Firebase / MongoDB / MySQL
+
+---
+
+## 📊 Tech Proficiency Overview
+
+<p align="center">
+  <img src="https://progress-bar.dev/90/?title=React" />
+  <img src="https://progress-bar.dev/85/?title=Node.js" />
+  <img src="https://progress-bar.dev/80/?title=Flutter" />
+  <img src="https://progress-bar.dev/70/?title=Firebase" />
+  <img src="https://progress-bar.dev/65/?title=Laravel" />
+  <img src="https://progress-bar.dev/90/?title=MongoDB" />
+  <img src="https://progress-bar.dev/75/?title=TypeScript" />
+  <img src="https://progress-bar.dev/60/?title=VB.NET" />
+</p>
+
+---
+
+## 🧠 Skills at a Glance (Pie Chart)
+
+<p align="center">
+  <img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['React','Node.js','Flutter','MongoDB','Firebase','Laravel'],datasets:[{data:[25,20,15,15,15,10]}]}}" width="400" />
+</p>
+
+---
+
+## 🤝 Let's Collaborate On
+
+* 📲 Cross-platform App Development
+* 🌐 Full-stack Web Projects
+* 🧠 AI & Data-driven Applications
+* 🧩 Creative UI/UX with Functional Architecture
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:anthonycrausus14.darkcode@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/anthony-crausus-19b974269"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="tel:+639510290543"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</p>
+
+---
+
+## 😄 Pronouns
+
+**He / Him**
+
+---
+
+## ⚡ Fun Fact
+
+> 🚀 I once built and deployed a **cloud-native app** with real-time collaboration, live testing, and full CI/CD — all without installing anything locally!
+
+---
+
+<!-- Footer Rocket Animation -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280" alt="Rocket Launch" />
+</p>
+```
+
+---
+
+### ✅ Next Steps:
+
+You can now:
+
+* Copy and paste this into your `README.md` file in your GitHub profile repository (`github.com/yourusername/yourusername`).
+* Adjust skill percentages and chart data as your experience grows.
+* Replace images or icons with personalized branding later if needed.
+
+Want a dark/light toggle version or animated Lottie files next?
