@@ -63,7 +63,7 @@
 ---
 
 ## 📫 Contact Me
-📧 [anthonycrausus14.darkcode@gmail.com](mailto:anthonycrausus14.darkcode@gmail.com)  
+📧 [anthonycrausus14.darkcode@gmail.com](mailto:anthonycrausus.dev@gmail.com)  
 📱 +63 951 029 0543  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/anthony-crausus-19b974269)
 
