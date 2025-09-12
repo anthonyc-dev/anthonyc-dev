@@ -1,3 +1,13 @@
+<p align="center"><a href="#" target="_blank"><img src="https://img.icons8.com/?size=512&id=12592&format=png" width="200" alt="Full Stack Developer"></a></p>
+
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-blue" alt="Role"></a>
+<a href="#"><img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js-green" alt="Frontend"></a>
+<a href="#"><img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Laravel-orange" alt="Backend"></a>
+<a href="#"><img src="https://img.shields.io/badge/Database-MySQL%20%7C%20MongoDB-red" alt="Database"></a>
+<a href="#"><img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="License"></a>
+</p>
+
 <!-- Header Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F76E11&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+I'm+Anthony+Crausus;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
