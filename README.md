@@ -12,6 +12,43 @@
   <a href="#"><img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="License"></a>
 </p>
 
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
+  
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" />
+  
+  <!-- Mobile & Cloud -->
+  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" />
+  
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-VB.NET-512BD4?logo=.net&logoColor=white&style=for-the-badge" />
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/-Android%20(Java)-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
+
+</p>
+
 <!-- Header Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F76E11&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+I'm+Anthony+Crausus;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
