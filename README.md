@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js-green" alt="Frontend"></a>
+<!--   <a href="#"><img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js-green" alt="Frontend"></a>
   <a href="#"><img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Laravel-orange" alt="Backend"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Database-MySQL%20%7C%20MongoDB-red" alt="Database"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Database-MySQL%20%7C%20MongoDB-red" alt="Database"></a> -->
   <a href="#"><img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-blue" alt="Role"></a>
   <a href="#"><img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="License"></a>
 </p>
