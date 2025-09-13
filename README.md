@@ -1,6 +1,8 @@
 <p align="center">
   <a href="#" target="_blank">
-    <h1 align="center">Full Stack Developer</h1>
+   <h1 align="center">
+     Full Stack <span style="color:red;">Developer</span>
+   </h1>
   </a>
 </p>
 
