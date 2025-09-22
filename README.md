@@ -24,15 +24,6 @@
 
 ---
 
-### 🌱 I’m currently learning
-- 🧩 **Frontend:** React.js, Next.js
-- 🚀 **Backend:** Express.js, Node.js, ASP.NET Web API
-- 🖥️ **Desktop Apps:** VB.NET, Java Swing, Tkinter
-- 📲 **Mobile Apps:** React Native, Flutter, Java (Android)
-- ☁️ **Cloud-scalable & database-integrated systems**
-
----
-
 ### 💞️ I’m looking to collaborate on
 - 🔧 **Full-stack app development** (Web / Mobile / Desktop)
 - 🤖 **AI & Machine Learning projects**
