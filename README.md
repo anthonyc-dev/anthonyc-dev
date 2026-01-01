@@ -37,16 +37,6 @@
 
 ---
 
-<h3 align="center">🚀 Featured Projects</h3>
-<p align="center">
-  <a href="https://github.com/anthonyc-dev/Computer-tools"><img src="https://img.shields.io/badge/Computer%20Tools-30336b?style=for-the-badge" /></a>
-  <a href="https://github.com/anthonyc-dev/ASCS-App"><img src="https://img.shields.io/badge/ASCS%20App-FF6F00?style=for-the-badge" /></a>
-  <a href="https://github.com/anthonyc-dev/brms-api"><img src="https://img.shields.io/badge/BRMS%20API-00b894?style=for-the-badge" /></a>
-  <a href="https://github.com/anthonyc-dev/Automotive-Events"><img src="https://img.shields.io/badge/Automotive%20Events-fd5c63?style=for-the-badge" /></a>
-</p>
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anthonyc-dev&show_icons=true&theme=radical&hide_title=true" />
   <br>
