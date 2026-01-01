@@ -33,7 +33,7 @@
 ---
 
 ### My Portfolio  
-[🌐 Portfolio](https://full-stack-dev-portfolio-kohl.vercel.app/)
+[🌐 Portfolio](https://personal-portfolio-wscy.vercel.app/)
 
 ---
 
