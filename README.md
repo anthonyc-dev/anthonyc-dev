@@ -16,19 +16,19 @@
 ---
 
 ### 👀 I’m interested in
-- 🌐 **Web Development** (Frontend, Backend, Full-stack)  
-- 📱 **Mobile App Development** (iOS, Android)  
-- 💻 **Desktop Applications** (Windows, Cross-platform)  
-- 🗃️ **Databases:** MySQL, MongoDB, Firebase, and more  
-- 🤝 **Open Source Contributions**
+-  **Web Development** (Frontend, Backend, Full-stack)  
+-  **Mobile App Development** (iOS, Android)  
+-  **Desktop Applications** (Windows, Cross-platform)  
+-  **Databases:** MySQL, MongoDB, Firebase, and more  
+-  **Open Source Contributions**
 
 ---
 
 ### 💞️ I’m looking to collaborate on
-- 🔧 **Full-stack app development** (Web / Mobile / Desktop)  
-- 🤖 **AI & Machine Learning projects**  
-- 🌍 **Open source, especially data-intensive apps**  
-- 🧠 **Innovative database architectures**
+-  **Full-stack app development** (Web / Mobile / Desktop)  
+-  **AI & Machine Learning projects**  
+-  **Open source, especially data-intensive apps**  
+-  **Innovative database architectures**
 
 ---
 
