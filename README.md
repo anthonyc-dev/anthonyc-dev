@@ -15,7 +15,7 @@
 
 # 💻 Tech Stack & Tools
 
-<div align="center">
+<div align="align-left">
   
 ## **Frontend Development**
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,javascript" height="40" />
