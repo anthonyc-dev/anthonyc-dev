@@ -17,19 +17,14 @@
 
 <div align="align-left">
   
-## **Frontend Development**
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind" height="40" />
 
-## **Backend Development**
 <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" height="40" />
 
-## **Databases**
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase" height="40" />
 
-## **Mobile Development**
 <img src="https://skillicons.dev/icons?i=react,java" height="40" />
 
-## **Tools & DevOps**
 <img src="https://skillicons.dev/icons?i=git,docker,githubactions,prisma" height="40" />
 
 </div>
