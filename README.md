@@ -29,7 +29,6 @@
 
 </div>
 
----
 
 ### 👀 I’m interested in
 -  **Web Development** (Frontend, Backend, Full-stack)  
@@ -38,7 +37,7 @@
 -  **Databases:** MySQL, MongoDB, Firebase, and more  
 -  **Open Source Contributions**
 
----
+
 
 ### 💞️ I’m looking to collaborate on
 -  **Full-stack app development** (Web / Mobile / Desktop)  
@@ -46,12 +45,12 @@
 -  **Open source, especially data-intensive apps**  
 -  **Innovative database architectures**
 
----
+
 
 ### 🌐 Portfolio
 [https://personal-portfolio-wscy.vercel.app](https://personal-portfolio-wscy.vercel.app/)
 
----
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anthonyc-dev&show_icons=true&theme=radical&hide_title=true" />
