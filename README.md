@@ -18,23 +18,19 @@
 <div align="align-left">
   
 ## **Frontend Development**
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,javascript" height="40" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind" height="40" />
 
 ## **Backend Development**
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php" height="40" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel" height="40" />
 
 ## **Databases**
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase" height="40" />
 
 ## **Mobile Development**
-<img src="https://skillicons.dev/icons?i=react,androidstudio,java" height="40" />
+<img src="https://skillicons.dev/icons?i=react,java" height="40" />
 
 ## **Tools & DevOps**
 <img src="https://skillicons.dev/icons?i=git,docker,githubactions,prisma" height="40" />
-
-## **APIs & Validation**
-<img src="https://skillicons.dev/icons?i=postman" height="40" />
-<img src="https://img.shields.io/badge/Zod-3068B7?style=flat-square&logo=zod&logoColor=white" height="40" />
 
 </div>
 
