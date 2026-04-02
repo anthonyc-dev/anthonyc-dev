@@ -46,7 +46,7 @@
 
 
 ### 🌐 Portfolio
-[https://personal-portfolio-wscy.vercel.app](https://anthony-fullstack-dev.vercel.app)
+[https://anthony-fullstack-dev.vercel.app](https://anthony-fullstack-dev.vercel.app)
 
 ----
 
