@@ -50,21 +50,14 @@
 
 ----
 
-## 📊 GitHub Analytics
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anthonyc-dev&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyc-dev&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anthonyc-dev&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anthonyc-dev&theme=react-dark" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" />
-</p>
-
 ---
 
 <p align="center">
