@@ -37,16 +37,7 @@
 -  **Databases:** MySQL, MongoDB, Firebase, and more  
 -  **Open Source Contributions**
 
-
-### I’m Looking to Collaborate On
--  **Full-stack app development** (Web / Mobile / Desktop)  
--  **AI & Machine Learning projects**  
--  **Open source, especially data-intensive apps**  
--  **Innovative database architectures**
-
-
-### Portfolio
-[https://anthony-fullstack-dev.vercel.app](https://anthony-fullstack-dev.vercel.app)
+### [My Portfolio](https://anthony-fullstack-dev.vercel.app)
 
 ----
 
