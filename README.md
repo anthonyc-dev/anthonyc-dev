@@ -29,7 +29,7 @@
 
 </div>
 
-```ts
+```md
 ### I’m Interested In
 -  **Web Development** (Frontend, Backend, Full-stack)  
 -  **Mobile App Development** (iOS, Android)  
