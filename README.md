@@ -16,8 +16,7 @@
 
 ---
 
-## Tech Stack & Tools
-
+<h3>Tech Stack & Tools</h3> 
 <div align="align-left"> 
     <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind" height="40" />
     <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" height="40" />
