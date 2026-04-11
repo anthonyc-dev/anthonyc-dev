@@ -22,8 +22,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" height="40" />
     <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase" height="40" />
     <img src="https://skillicons.dev/icons?i=react,java" height="40" />
-    <img src="https://skillicons.dev/icons?i=git,docker,githubactions,prisma" height="40" />
-  <h2>...</h2>
+    <img src="https://skillicons.dev/icons?i=git,docker,githubactions,prisma" height="40" /> <h2>...</h2>
 </div> 
 
 ---
@@ -47,7 +46,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anthonyc-dev&theme=next" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anthonyc-dev&theme=dark" />
 </p>
 
 
