@@ -12,9 +12,9 @@
   <img src="https://img.shields.io/badge/Databases-FFD600?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20Source-8E24AA?style=for-the-badge&logo=github&logoColor=white" />
 </p>
----
-## Tech Stack & Tools
 
+## Tech Stack & Tools
+---
 <div align="align-left"> 
     <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind" height="40" />
     <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" height="40" />
