@@ -29,19 +29,13 @@
 
 </div>
 
----
-### I’m interested in
--  **Web Development** (Frontend, Backend, Full-stack)  
--  **Mobile App Development** (iOS, Android)  
--  **Desktop Applications** (Windows, Cross-platform)  
--  **Databases:** MySQL, MongoDB, Firebase, and more  
--  **Open Source Contributions**
-### I’m looking to collaborate on
--  **Full-stack app development** (Web / Mobile / Desktop)  
--  **AI & Machine Learning projects**  
--  **Open source, especially data-intensive apps**  
--  **Innovative database architectures**
---- deisgn this make code block' make this design like a code like code block for my github profile deisgn
+> **Interests**  
+> Web Dev · Mobile (iOS/Android) · Desktop (Win/Cross)  
+> Databases: MySQL, MongoDB, Firebase  
+> Open Source Contributions  
+
+> **Looking to collaborate on**  
+> Full-stack apps · AI/ML · Data-intensive OSS · DB architecture innovation
 
 ### Portfolio
 [https://anthony-fullstack-dev.vercel.app](https://anthony-fullstack-dev.vercel.app)
