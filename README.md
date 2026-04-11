@@ -23,7 +23,7 @@
     <img src="https://skillicons.dev/icons?i=git,docker,githubactions,prisma" height="40" />
 </div> 
 
-"                    "
+<p>
 ```md
 ### I’m Interested In
 -  **Web Development** (Frontend, Backend, Full-stack)  
@@ -32,6 +32,7 @@
 -  **Databases:** MySQL, MongoDB, Firebase, and more  
 -  **Open Source Contributions**
 ```
+</p>
 
 [My Portfolio](https://anthony-fullstack-dev.vercel.app)
 
