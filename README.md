@@ -51,11 +51,6 @@
 ----
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anthonyc-dev&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyc-dev&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anthonyc-dev&theme=react-dark" />
 </p>
 
