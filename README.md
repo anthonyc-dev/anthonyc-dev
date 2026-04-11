@@ -29,7 +29,7 @@
 
 </div> 
 
-<di">
+<div>
 
 ```md
 ### I’m Interested In
@@ -40,6 +40,7 @@
 -  **Open Source Contributions**
 ```
 </div> 
+
 [My Portfolio](https://anthony-fullstack-dev.vercel.app)
 
 ----
