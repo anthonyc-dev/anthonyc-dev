@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Open%20Source-8E24AA?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-## 💻 Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="align-left">
   
@@ -30,14 +30,14 @@
 </div>
 
 ---
-### 👀 I’m interested in
+### I’m interested in
 -  **Web Development** (Frontend, Backend, Full-stack)  
 -  **Mobile App Development** (iOS, Android)  
 -  **Desktop Applications** (Windows, Cross-platform)  
 -  **Databases:** MySQL, MongoDB, Firebase, and more  
 -  **Open Source Contributions**
 
-### 💞️ I’m looking to collaborate on
+### I’m looking to collaborate on
 -  **Full-stack app development** (Web / Mobile / Desktop)  
 -  **AI & Machine Learning projects**  
 -  **Open source, especially data-intensive apps**  
@@ -45,7 +45,7 @@
 ---
 
 
-### 🌐 Portfolio
+### Portfolio
 [https://anthony-fullstack-dev.vercel.app](https://anthony-fullstack-dev.vercel.app)
 
 ----
