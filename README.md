@@ -37,7 +37,7 @@
 -  **Databases:** MySQL, MongoDB, Firebase, and more  
 -  **Open Source Contributions**
 ```
- 
+--- 
 [My Portfolio](https://anthony-fullstack-dev.vercel.app)
 
 ----
