@@ -41,8 +41,8 @@
 ----
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anthonyc-dev&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anthonyc-dev&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anthonyc-dev&show_icons=true&theme=dark" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anthonyc-dev&layout=compact&theme=dark" height="180"/>
 </p>
 
 <p align="center">
