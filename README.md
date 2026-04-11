@@ -29,13 +29,20 @@
 
 </div>
 
-> **Interests**  
-> Web Dev · Mobile (iOS/Android) · Desktop (Win/Cross)  
-> Databases: MySQL, MongoDB, Firebase  
-> Open Source Contributions  
+# 💻 I’m interested in
 
-> **Looking to collaborate on**  
-> Full-stack apps · AI/ML · Data-intensive OSS · DB architecture innovation
+- Web Development (Frontend, Backend, Full-stack)
+- Mobile App Development (iOS, Android)
+- Desktop Applications (Windows, Cross-platform)
+- Databases: MySQL, MongoDB, Firebase, and more
+- Open Source Contributions
+
+# 🤝 I’m looking to collaborate on
+
+- Full-stack app development (Web / Mobile / Desktop)
+- AI & Machine Learning projects
+- Open source, especially data-intensive apps
+- Innovative database architectures
 
 ### Portfolio
 [https://anthony-fullstack-dev.vercel.app](https://anthony-fullstack-dev.vercel.app)
