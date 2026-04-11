@@ -29,15 +29,16 @@
 
 </div>
 
-
+```ts
 ### I’m Interested In
 -  **Web Development** (Frontend, Backend, Full-stack)  
 -  **Mobile App Development** (iOS, Android)  
 -  **Desktop Applications** (Windows, Cross-platform)  
 -  **Databases:** MySQL, MongoDB, Firebase, and more  
 -  **Open Source Contributions**
-
-### [My Portfolio](https://anthony-fullstack-dev.vercel.app)
+```
+ 
+[My Portfolio](https://anthony-fullstack-dev.vercel.app)
 
 ----
 
