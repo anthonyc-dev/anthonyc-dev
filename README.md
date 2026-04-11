@@ -29,32 +29,37 @@
 
 </div>
 
-```md
-## 🚀 Interests & Collaboration
+```ts
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//  GitHub Profile — Developer Config
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### 🔍 I’m Interested In
-- 🌐 **Web Development**
-  - Frontend, Backend, Full-stack
-- 📱 **Mobile App Development**
-  - iOS, Android
-- 💻 **Desktop Applications**
-  - Windows, Cross-platform
-- 🗄️ **Databases**
-  - MySQL, MongoDB, Firebase, and more
-- 🌍 **Open Source Contributions**
+const interestedIn = {
+  webDev:     ["Frontend", "Backend", "Full-stack"],
+  mobile:     ["iOS", "Android"],
+  desktop:    ["Windows", "Cross-platform"],
+  databases:  ["MySQL", "MongoDB", "Firebase"],
+  openSource: true
+};
 
----
+const lookingToCollabOn = {
+  fullStack:  "Web / Mobile / Desktop",
+  aiAndML:    true,
+  openSource: "data-intensive apps",
+  database:   "innovative architectures"
+};
 
-### 🤝 I’m Looking to Collaborate On
-- ⚡ **Full-stack Applications**
-  - Web / Mobile / Desktop
-- 🧠 **AI & Machine Learning Projects**
-- 📦 **Open Source Projects**
-  - Especially data-intensive apps
-- 🧩 **Innovative Database Architectures**
+function getProfile() {
+  return {
+    interests:     interestedIn,
+    collaboration: lookingToCollabOn,
+    status:        "open to collaborate",
+    funFact:       "I debug with console.log and I'm proud of it"
+  };
+}
+
+getProfile();  // → let's build something great 🚀
 ```
-
-
 
 ### Portfolio
 [https://anthony-fullstack-dev.vercel.app](https://anthony-fullstack-dev.vercel.app)
