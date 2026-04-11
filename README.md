@@ -16,7 +16,7 @@
 
 ---
 
-Tech Stack & Tools
+# Tech Stack & Tools
 
 <div align="align-left"> 
     <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind" height="40" />
