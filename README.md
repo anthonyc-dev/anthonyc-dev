@@ -29,22 +29,22 @@
 
 </div>
 
-## 🚀 Interests & Collaboration
 
-### 🔍 I’m Interested In
-- 🌐 **Web Development** (Frontend, Backend, Full-stack)  
-- 📱 **Mobile App Development** (iOS, Android)  
-- 💻 **Desktop Applications** (Windows, Cross-platform)  
-- 🗄️ **Databases:** MySQL, MongoDB, Firebase, and more  
-- 🌍 **Open Source Contributions**
+### I’m Interested In
+-  **Web Development** (Frontend, Backend, Full-stack)  
+-  **Mobile App Development** (iOS, Android)  
+-  **Desktop Applications** (Windows, Cross-platform)  
+-  **Databases:** MySQL, MongoDB, Firebase, and more  
+-  **Open Source Contributions**
 
----
 
-### 🤝 I’m Looking to Collaborate On
-- ⚡ **Full-stack app development** (Web / Mobile / Desktop)  
-- 🧠 **AI & Machine Learning projects**  
-- 📦 **Open source, especially data-intensive apps**  
-- 🧩 **Innovative database architectures**
+### I’m Looking to Collaborate On
+-  **Full-stack app development** (Web / Mobile / Desktop)  
+-  **AI & Machine Learning projects**  
+-  **Open source, especially data-intensive apps**  
+-  **Innovative database architectures**
+
+
 ### Portfolio
 [https://anthony-fullstack-dev.vercel.app](https://anthony-fullstack-dev.vercel.app)
 
