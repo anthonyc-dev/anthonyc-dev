@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Databases-FFD600?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20Source-8E24AA?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
+---
 ## Tech Stack & Tools
 
 <div align="align-left"> 
@@ -23,6 +23,8 @@
     <img src="https://skillicons.dev/icons?i=git,docker,githubactions,prisma" height="40" />
 </div> 
 
+---
+
 ```md
 ### I’m Interested In
 -  **Web Development** (Frontend, Backend, Full-stack)  
@@ -32,7 +34,7 @@
 -  **Open Source Contributions**
 ```
 
-
+[My Portfolio](https://anthony-fullstack-dev.vercel.app)
 
 ----
 
