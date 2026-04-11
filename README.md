@@ -29,7 +29,7 @@
 
 </div> 
 
-<div height="20"></div> 
+<div height="20">
 
 ```md
 ### I’m Interested In
@@ -39,6 +39,7 @@
 -  **Databases:** MySQL, MongoDB, Firebase, and more  
 -  **Open Source Contributions**
 ```
+</div> 
 [My Portfolio](https://anthony-fullstack-dev.vercel.app)
 
 ----
