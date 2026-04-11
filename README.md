@@ -29,37 +29,19 @@
 
 </div>
 
-```ts
-// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-//  GitHub Profile — Developer Config
-// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-const interestedIn = {
-  webDev:     ["Frontend", "Backend", "Full-stack"],
-  mobile:     ["iOS", "Android"],
-  desktop:    ["Windows", "Cross-platform"],
-  databases:  ["MySQL", "MongoDB", "Firebase"],
-  openSource: true
-};
-
-const lookingToCollabOn = {
-  fullStack:  "Web / Mobile / Desktop",
-  aiAndML:    true,
-  openSource: "data-intensive apps",
-  database:   "innovative architectures"
-};
-
-function getProfile() {
-  return {
-    interests:     interestedIn,
-    collaboration: lookingToCollabOn,
-    status:        "open to collaborate",
-    funFact:       "I debug with console.log and I'm proud of it"
-  };
-}
-
-getProfile();  // → let's build something great 🚀
-```
+---
+### I’m interested in
+-  **Web Development** (Frontend, Backend, Full-stack)  
+-  **Mobile App Development** (iOS, Android)  
+-  **Desktop Applications** (Windows, Cross-platform)  
+-  **Databases:** MySQL, MongoDB, Firebase, and more  
+-  **Open Source Contributions**
+### I’m looking to collaborate on
+-  **Full-stack app development** (Web / Mobile / Desktop)  
+-  **AI & Machine Learning projects**  
+-  **Open source, especially data-intensive apps**  
+-  **Innovative database architectures**
+--- deisgn this make code block' make this design like a code like code block for my github profile deisgn
 
 ### Portfolio
 [https://anthony-fullstack-dev.vercel.app](https://anthony-fullstack-dev.vercel.app)
