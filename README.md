@@ -24,7 +24,7 @@
 <h3>Tech Stack & Tools</h3> 
 <div> 
     <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind" height="40" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" height="40" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nest,express,laravel" height="40" />
     <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase" height="40" />
     <img src="https://skillicons.dev/icons?i=flutter,react,java" height="40" />
     <img src="https://skillicons.dev/icons?i=git,docker,githubactions,prisma" height="40" />
