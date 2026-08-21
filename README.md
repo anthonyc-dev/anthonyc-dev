@@ -47,8 +47,17 @@
 ----
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anthonyc-dev&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyc-dev&layout=compact&theme=dark" alt="Top Languages" />
+  <img
+    src="https://streak-stats.demolab.com/?user=anthonyc-dev&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=anthonyc-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=4"
+    alt="GitHub Trophies"
+  />
 </p>
 
 <p align="center">
