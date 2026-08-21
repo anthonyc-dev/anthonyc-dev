@@ -54,13 +54,6 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=anthonyc-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=4"
-    alt="GitHub Trophies"
-  />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anthonyc-dev&theme=redical" />
 </p>
 
