@@ -8,9 +8,9 @@
 
 Building secure, scalable, and thoughtfully designed digital products.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/anthonyc-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://anthony-fullstack-dev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-crausus-dev)
+[![Email](https://img.shields.io/badge/Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthonycrausus.dev@gmail.com)
 
 </div>
 
@@ -86,7 +86,7 @@ Performance      Efficient queries, deliberate state, measured optimization
 
 ### Let's build something dependable.
 
-[Portfolio](https://your-portfolio.com) · [LinkedIn](https://linkedin.com/in/YOUR_USERNAME) · [Email](mailto:you@example.com)
+[Portfolio](https://anthony-fullstack-dev.vercel.app) · [LinkedIn](https://www.linkedin.com/in/anthony-crausus-dev) · [Email](mailto:anthonycrausus.dev@gmail.com)
 
 <sub>Available for selected freelance work and technical collaborations.</sub>
 
