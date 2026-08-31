@@ -1,17 +1,12 @@
-<!--
-  GITHUB PROFILE README
-  1. Rename YOUR_NAME and YOUR_USERNAME.
-  2. Replace the email and social links near the bottom.
-  3. Pin your best repositories on GitHub, then update the project links below.
--->
+<!-- Replace YOUR_NAME, YOUR_USERNAME, your portfolio URL, and contact details. -->
 
 <div align="center">
 
-# Hi, I'm YOUR_NAME.
+# Anthony Crausus
 
-### I build dependable products for web and mobile.
+### Full-Stack Developer
 
-From polished interfaces to secure APIs, realtime systems, subscriptions, and offline-first apps.
+Building secure, scalable, and thoughtfully designed digital products.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
@@ -21,51 +16,38 @@ From polished interfaces to secure APIs, realtime systems, subscriptions, and of
 
 ---
 
-## What I do
+## Profile
 
-```text
-Mobile       Flutter apps with resilient offline flows and realtime sync
-Frontend     Accessible, responsive interfaces with React and Next.js
-Backend      Secure APIs, authorization, billing, and event-driven features
-Data         PostgreSQL systems designed for integrity, scale, and observability
-```
+I am a software engineer focused on building production-ready web and mobile applications. I work across the product lifecycle—from interface architecture and user experience to backend services, data modeling, authentication, billing, and deployment.
 
-I care about the whole path from the first interaction to the final database write. My work emphasizes clear architecture, thoughtful UX, secure defaults, and behavior that remains reliable when networks, sessions, or external services fail.
+My approach combines clean engineering with practical product thinking. I care about maintainable systems, reliable user experiences, secure defaults, and software that continues to work beyond the ideal path.
 
-## Selected work
+## Areas of expertise
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Song collaboration platform</h3>
-      <p>A Flutter and Supabase product with offline-first boards, realtime synchronization, subscriptions, attachments, and protected content flows.</p>
-      <p><strong>Flutter · Riverpod · Supabase · PostgreSQL</strong></p>
-      <a href="https://github.com/YOUR_USERNAME/REPOSITORY_ONE">View project →</a>
+      <h3>01 · Frontend Engineering</h3>
+      <p>Responsive, accessible interfaces with clear component architecture, thoughtful interaction design, and efficient client-side data flows.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Learning management system</h3>
-      <p>A full-stack learning platform with durable notifications, authorized state changes, realtime updates, and operational cleanup.</p>
-      <p><strong>NestJS · React · TypeORM · Socket.IO</strong></p>
-      <a href="https://github.com/YOUR_USERNAME/REPOSITORY_TWO">View project →</a>
+      <h3>02 · Backend Systems</h3>
+      <p>Secure APIs, role-based access control, realtime communication, background workflows, and well-structured service architecture.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Admin and billing portal</h3>
-      <p>A data-driven administration workspace with role-aware routing, analytics, support workflows, and Stripe subscription management.</p>
-      <p><strong>Next.js · Supabase · Stripe · TypeScript</strong></p>
-      <a href="https://github.com/YOUR_USERNAME/REPOSITORY_THREE">View project →</a>
+      <h3>03 · Mobile Development</h3>
+      <p>Cross-platform applications with offline resilience, local persistence, synchronization, subscriptions, and platform-aware UX.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Missionary journey platform</h3>
-      <p>A responsive role-based platform for guided learning journeys, account administration, and structured lesson progress.</p>
-      <p><strong>Next.js · Neon · PostgreSQL · Auth</strong></p>
-      <a href="https://github.com/YOUR_USERNAME/REPOSITORY_FOUR">View project →</a>
+      <h3>04 · Data & Infrastructure</h3>
+      <p>Relational data modeling, migrations, transactions, third-party integrations, deployment workflows, and operational reliability.</p>
     </td>
   </tr>
 </table>
 
-## Toolkit
+## Technology
 
 <div align="center">
 
@@ -73,12 +55,15 @@ I care about the whole path from the first interaction to the final database wri
 
 </div>
 
-## How I work
+## Engineering principles
 
-- Trace failures across the full data path instead of hiding symptoms.
-- Keep business rules separate from presentation and infrastructure.
-- Treat authorization, validation, and failure states as core product behavior.
-- Make focused changes, test meaningful boundaries, and document what remains unverified.
+```text
+Architecture     Clear boundaries, focused abstractions, maintainable systems
+Security         Authorization, validation, least privilege, safe data handling
+Reliability      Explicit failures, resilient flows, meaningful observability
+Quality          Focused changes, behavioral tests, careful regression checks
+Performance      Efficient queries, deliberate state, measured optimization
+```
 
 ## GitHub activity
 
@@ -99,10 +84,10 @@ I care about the whole path from the first interaction to the final database wri
 
 <div align="center">
 
-### Have a product problem worth solving?
+### Let's build something dependable.
 
-[Open an issue](https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues) or [send me an email](mailto:you@example.com).
+[Portfolio](https://your-portfolio.com) · [LinkedIn](https://linkedin.com/in/YOUR_USERNAME) · [Email](mailto:you@example.com)
 
-<sub>Building software that stays useful after the demo.</sub>
+<sub>Available for selected freelance work and technical collaborations.</sub>
 
 </div>
