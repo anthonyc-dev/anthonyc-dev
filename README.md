@@ -18,7 +18,7 @@ Building secure, scalable, and thoughtfully designed digital products.
 
 ## Profile
 
-I am a software engineer focused on building production-ready web and mobile applications. I work across the product lifecycle—from interface architecture and user experience to backend services, data modeling, authentication, billing, and deployment.
+I am a Full Stack Developer focused on building production-ready web and mobile applications. I work across the product lifecycle—from interface architecture and user experience to backend services, data modeling, authentication, billing, and deployment.
 
 My approach combines clean engineering with practical product thinking. I care about maintainable systems, reliable user experiences, secure defaults, and software that continues to work beyond the ideal path.
 
